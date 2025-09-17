@@ -4,4 +4,4 @@
 
 **Result:**
 
-![Data Loading Result](Script Execution Result.PNG).
+![Data Loading Result](Script Execution Result.PNG)
