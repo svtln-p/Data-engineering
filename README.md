@@ -4,7 +4,8 @@
 
 ## Настройка проекта
 ### Создать виртуальное окружение с помощью  conda + poetry
-```conda create -n my_env python=3.13 pip
+```
+conda create -n my_env python=3.13 pip
 conda activate my_env
 
 pip install poetry
