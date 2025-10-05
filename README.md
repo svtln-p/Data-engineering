@@ -31,7 +31,7 @@ poetry install —no-root
 
 ![Data Information](Data_inf.PNG)
 
-Выполняет приведение типов данных:
+# Приведение типов данных
 
 Преобразует даты в столбце 'FlightDate'
 
