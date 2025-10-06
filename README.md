@@ -28,11 +28,11 @@ poetry install —no-root
 
 Отображает первые 10 строк датасета для проверки:
 
-![Data Loading Result](DataLoadingResult.JPG)
+![Data Loading Result](images/DataLoadingResult.JPG)
 
 Показывает информацию о количестве записей и типах данных для всех переменных.
 
-![Data Information](Data_inf.PNG)
+![Data Information](images/Data_inf.PNG)
 
 # Приведение типов данных и сохранение датасета
 Исследование данных проводилось с целью выявления ошибочных данных, пустых значений (NaN) и оптимизации типов данных в основном файле data_loader.py.
@@ -81,7 +81,7 @@ object: 9 колонок
 
 Результат обработки:
 
-![Result](result.PNG)
+![Result](images/result.PNG)
 
 Обработанные файлы сохраняются в папку data/ и могут использоваться для дальнейшего анализа и визуализации.
 
