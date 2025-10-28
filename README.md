@@ -69,13 +69,15 @@ Effect: Indicated Damage, When: Phase of flight, When: Time of day → category
 
 float64: 9 колонок
 
-category: 3 колонки
+category: 5 колонки
 
 datetime64[ns]: 1 колонка
 
 int64: 1 колонка
 
-object: 9 колонок
+object: 7 колонок
+
+float64: 9 колонок
 
 Сохранены обработанные данные в формате CSV
 
