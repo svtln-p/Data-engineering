@@ -25,7 +25,7 @@ poetry install —no-root
 ## Структура проекта
 
 ```
-dde_etl/
+Data-engineering/
 │
 ├── etl/
 │   ├── __init__.py
@@ -38,14 +38,6 @@ dde_etl/
 ```
 
 ## Запуск ETL
-Сохранить проект и убедиться, что рядом есть .env файл (для базы данных), например:
-
-```
-db_user = user
-db_password = 123
-db_url = url
-db_port = 5432
-```
 
 Выпонить команду: 
 ```
